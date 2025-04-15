@@ -11,7 +11,7 @@ environment:
 
 dependencies:
   pigeon_build_config: ^1.1.0
-  pigeon_build_core: ^1.1.1
+  pigeon_build_core: ^2.0.0
   build: ^2.4.2
   pigeon: ">=24.0.0"
   scratch_space: ^1.0.2
