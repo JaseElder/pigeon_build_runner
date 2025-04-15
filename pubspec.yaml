@@ -1,4 +1,4 @@
-name: pigeon_build_workspace
+name: pigeon_build_runner
 
 environment:
   sdk: '>=2.18.4 <4.0.0'
